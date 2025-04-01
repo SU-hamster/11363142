@@ -1,0 +1,17 @@
+書報討論(二) 日期:2025/04/01
+講者:廖弘源博士 題目:From YOLOv4、YOLOv7,to YOLOv9
+
+廖弘源老師 :「簡單的生活，單純的心」
+Scientist vs Engineer
+Scientists use systematic methods to solve long-term problems
+Engineers use existing methods to solve current problems
+科學家 vs 工程師
+科學家使用系統化的方法來解決長期問題
+工程師使用現有的方法來解決當前問題
+
+所有多媒體資料處理的第一步就是"物件偵測"
+為什麼物件偵測如此重要？
+  *在描述一張圖片之前，必須先「理解」該圖片
+  *理解一張圖片的第一步是知道其中有「什麼」
+  *對電腦而言，知道「物件在哪裡」是非常重要的
+  
