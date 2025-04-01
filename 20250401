@@ -15,3 +15,16 @@ Engineers use existing methods to solve current problems
   *理解一張圖片的第一步是知道其中有「什麼」
   *對電腦而言，知道「物件在哪裡」是非常重要的
 
+設計物件偵測系統須考量的基本議題:
+    *網路架構(network architecture)
+    *特徵整合方法(feature integration method)
+    *偵測方法(detection method)
+    *損失函數(loss function)
+    *標籤分配方法(label assignment method)
+    *訓練方法(training method)
+
+設計物件偵測系統需面對的基本問題：
+  要以既有模型為基礎，或是另外創建新模型
+    *模型擴展（Model Scaling）
+    *邊緣端的推論速度（Inference Speed at Edge）
+    *前向傳播過程中的資料遺失（Data loss during feedforward）
